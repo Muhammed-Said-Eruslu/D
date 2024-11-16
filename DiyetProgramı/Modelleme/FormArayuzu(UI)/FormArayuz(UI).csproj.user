@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BenimOgunEklem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GunSonuRaporuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KiyasRaporlariForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgunGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YemekCesidiRaporuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
